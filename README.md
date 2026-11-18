@@ -42,8 +42,8 @@ Data provided by StatsBomb. Dane są udostępnione na warunkach opisanych w repo
 
 - [x] Pobranie danych (610 meczów)
 - [x] Wczytanie strzałów do jednej tabeli (ok. 15,7 tys. strzałów)
-- [ ] Filtrowanie (bez rzutów karnych i serii karnych) i zapis do CSV
-- [ ] Cechy: odległość i kąt strzału
-- [ ] Analiza eksploracyjna i testy statystyczne
-- [ ] Modele i porównanie ze StatsBomb xG
-- [ ] Analiza zawodników i drużyn
+- [x] Filtrowanie (bez rzutów karnych i serii karnych) i zapis do CSV
+- [x] Cechy: odległość i kąt strzału
+- [x] Analiza eksploracyjna i testy statystyczne
+- [x] Modele i porównanie ze StatsBomb xG
+- [x] Analiza zawodników i drużyn
